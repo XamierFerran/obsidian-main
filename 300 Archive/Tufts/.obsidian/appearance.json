@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "baseFontSize": 14,
+  "theme": "moonstone",
+  "cssTheme": "Catppuccin",
+  "enabledCssSnippets": [
+    "customCSS"
+  ],
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "showRibbon": true
+}

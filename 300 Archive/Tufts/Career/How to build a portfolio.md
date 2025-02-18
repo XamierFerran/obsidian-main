@@ -1,0 +1,94 @@
+Portfolio = Greatest Hit Album
+
+Main Reasons for a portfolio
+- Get internship/job (duh)
+- Oppertunity to reflect and organize (facts)
+
+Building a Portfolio
+- Treat portfolio like a design project
+	- Empathize
+		- Who will look at my portfolio?
+			- Human Resource Recruiters
+				- 20-50 applicants per day
+				- typically not a designer = visuals very important
+				- Wants to fill position asap
+			- Hiring Manager
+				- Busy
+				- Reviews only people who match description
+		- Research
+			- Check out past spotify (example) employee portfolios 
+			- Find inspiration
+			- Job Description
+		- Takeaways
+			- Visuals matter
+			- Keep it concise & easy to navigate
+			- Show clear process
+	- Define
+		- Self Reflection Time!
+			- How do I stand out???
+			- Self reflection helps you stand out
+			- What's your story?
+				- What's unique about my backhround
+				- Strengths + weaknesses
+				- Interests passions?
+			- Self awareness
+		- How to chose projects
+			- End-to-end design (to show understanding of entire process)
+			- Type of medium (good to diversify)
+			- High Impact
+			- Passion Projects
+		- Design structure of portfolio
+			- Home
+			- About
+			- Work
+				- Work should be shown on home page
+			- Add contacts
+		- Case Study Structure
+		- < 20 Seconds to impress
+			- Homepage is super important
+		- Concise and easy to navigate
+			- different navigation styles 
+			- Jump to final design
+		- Meaningful (visuals > words)
+			- Make sure they're useful too!
+			- You can break up a paragraph into easier to read blocks of text
+		- What tools?
+			- Pencil and Paper
+				- low fidelity
+			- Whimsical
+				- mid fidelity
+			- Figma
+				- high fidelity
+			- Simple and no code
+				- Wix, Squarespace, Adobe Portfolio
+			- Advanced and optional code
+				- Webflow framer, editor x
+			- I love to code!
+				- Front-end development all the way
+		- Test
+			- ASK FOR FEEDBACK (from industry professionals if possible)
+			- Tips
+				- Use ADPList
+					- book appts with industry professionals
+				- Be specific about questions
+				- Go through a case study
+					- Go through a case study yourself
+				- I don't have a portfolio rn, where should I start
+					- Find at least thre projects you believe is worthy for port
+						- If can find -> write out the project details in a document
+					- Look up designers that you like (LinkedIn)
+		- Inspiration
+			- Cofolios
+			- Awwwards
+			- LinkedIns
+			- Bestfolios
+		- For critiques
+			- ADPList
+			- Design buddies
+	-  Ideate 
+	- Prototype
+	- Test
+- 
+
+Contacts:
+- Brianna Bouchard

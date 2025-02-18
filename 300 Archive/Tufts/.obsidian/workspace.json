@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9d43f41ea2d6d00e",
+    "type": "split",
+    "children": [
+      {
+        "id": "82be442be61fbdc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e202052e554007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS150/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1"
+            }
+          },
+          {
+            "id": "2fb83cf2052feebe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e167f77341308eea",
+    "type": "split",
+    "children": [
+      {
+        "id": "0de533c35bb4af2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b751c2a874647ecc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2bc0c541771b8953",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "poker",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b13589a68384d433",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2dbcf47eab0b4694",
+    "type": "split",
+    "children": [
+      {
+        "id": "f899bf6fae0f3e4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba9922251158fa66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS144/Homework Write-Up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Homework Write-Up"
+            }
+          },
+          {
+            "id": "00e22b1cf5a95307",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "15b0276613501ca3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "52197495140e6af7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2fb83cf2052feebe",
+  "lastOpenFiles": [
+    "CS239/Lecture 1.md",
+    "CS150/Lecture 1.md",
+    "CS150",
+    "CS239",
+    "CS144/Misty Research.md",
+    "CS144/HW2 Write Up.md",
+    "CS144/Experiment Graphs/clusterM5T1.png",
+    "CS144/Experiment Graphs/avgM20T3.png",
+    "CS144/Experiment Graphs/clusterM20T3.png",
+    "CS144/Experiment Graphs/avgM20T2.png",
+    "CS144/Experiment Graphs/clusterM20T2.png",
+    "CS144/Experiment Graphs/avgM20T1.png",
+    "CS144/Experiment Graphs/clusterM20T1.png",
+    "CS144/Experiment Graphs/avgM10T3.png",
+    "CS144/Experiment Graphs/clusterM10T3.png",
+    "CS144/Experiment Graphs/avgM10T2.png",
+    "CS144/Experiment Images/Untitled.canvas",
+    "CS144/Experiment Graphs",
+    "CS144/Demo Images",
+    "Untitled.md",
+    "Solar/ASC2024-Regs-EXTERNAL-RELEASE-B.pdf",
+    "ES55/xamierferran_HMWK5.pdf",
+    "ES55/HW4.pdf",
+    "ES55/HW2.pdf",
+    "CS144/Video Lecture Response.md",
+    "CS144",
+    "SMART Goals.md",
+    "Study Tips.md",
+    "ME51/Lecture Notes/Week 8.4 Intro to Heat Transfer!.md",
+    "Career/How to build a portfolio.md",
+    "ME51/Lecture Notes/Week 8.2 Dynamic Similarity.md",
+    "ME51/Lecture Notes/Week 8.1 Dynamic Similarities.md",
+    "ME51/Physical Mechanism of Convection.md",
+    "ME51/Parallel Flow Over Flat Plates.md",
+    "ME51/Flow Across Cylinders and Spheres.md",
+    "ME51/Lecture Notes/Week 8.3 Dynamic Similarity.md",
+    "ME51/Lecture Notes/Week 5.1 Navier-Stokes Equations.md",
+    "ME51/Thermal Boundary Layer.md"
+  ]
+}

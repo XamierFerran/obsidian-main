@@ -1,0 +1,7 @@
+#discussion-post #task-analysis 
+## Question:
+Write up a short reflection on what you think are the key topics from the readings and what is common between them and where they differ. How would you put task analysis to use in human factors work?
+
+## Response:
+John Annett's paper titled "Hierarchical Task Analysis" provides a detailed history, description, and application of task analysis. Emerging out of industrial design, human factors, and ergonomics, this framework helps designers find general system errors by decomposing goals into tasks. Operations act as a base unit of analysis that encapsulates an input, action, and feedback relating to a specific goal. These units are then broken down by sub goals that are acted upon based on a plan that determines when goals are active or latent. 
+While Annett's perspective focused on the structural framework of hierarchical task analysis, Maria Rosala's article "Task Analysis: Support Users in Achieving Their Goal" took a more user center definition of task analysis. In Rosala's article, the goal is more Specifically centered around the user's expectations and the problem they need to be solved. To that extent, this approach might benefit from considering the different layers of task analysis mentioned by James Intrilligator in his paper "Multidimensional Task Analysis (MTA): A New Design Method for Human Factors Practitioners." Intrilligator goes on to make the distinction of traditional task analysis versus the many subsets, or **layers**, that can be used to discover new information.

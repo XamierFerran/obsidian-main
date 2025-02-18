@@ -1,0 +1,8 @@
+#introduction-to-shared-control #shared-control #discussion-post 
+**What do you think of the exploratory design research methodology?**
+The paper introduced an exploratory design methodology that simulates the relationship between the human driver and the automated driving system where the automated system is actually a human with coupled steering wheel. This experimental setup allowed for some variability in interaction between driver-agent interactions and actions from the agent that would affect the driver.
+
+**We haven't discussed signal detection theory, but the model of true positive/false positive/miss/true negative is straight from SDT. what do you think of using this model?**
+This model feels decently comprehensive while still simplifying real world scenarios. Its able to take a very one off experimental scenario and expand it to a few widely encompassing more likely scenarios. In the case of this user study, it provides a framework to use that encapsulates the interactions possible between the driver, the agent, and the environment.
+**What do you think is the future for shared control systems, especially when used by non-experts?**
+The paper briefly mentions how shared control is useful for the transition between manual control and autonomous driving. I strongly agree with this point and find that exploration of different shared control methodologies and their variable degree of effect on the driver is a great way to transition over to autonomous driving. This transition aids in the user being able to slowly build trust and expectation over the autonomous system both over the life span of the driver's ownership of the car, as well as over a longer term by shaping the societal norms a driver has and expects from a car. 

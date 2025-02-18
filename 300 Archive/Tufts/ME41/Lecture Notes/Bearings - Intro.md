@@ -1,0 +1,55 @@
+**Introduction**
+- Bearings reduce friction between objects, which allows for moving parts to run smoother
+- Typically, they are manufactured to take pure radial loads, pure thrust loads, or a combination of the two
+	- Radial or Thrust refers to the direction of force on a shaft mounted bearing
+
+# Types of Bearings
+- Ball Bearings
+	- Widely used
+	- Rolling contact bearings
+	- 4 Parts
+		- The outer ring
+		- The inner ring
+		- The balls (or rolling elements)
+		- The seperator (or retainer/cage)
+		- The race way (this constrains the rolling elements)
+	- Types of Ball Bearings
+		- Deep Groove (Most common)
+			- Deep race allows balls to support radial and thrust load
+			- Balls are installed with inner ring at eccentric positon
+		- Filling Notch
+			- Designed to have more balls than the Deep Groove
+			- Has a cut out (the notch) to allow balls to be inserted (increases load capacity but decreased thrust capacity)
+		- Angular Contact
+			- Basically, the balls have an uneven deepness due to a differently shaped race way. One side is deeper  into the bearing. This allows it to handle greater thrust loads
+			- Come with various contact angles to accommodate different combinations of thrust and radial load
+	- Bearings may be in harsh environments which means we need to keep some stuff from getting in and harming the mechanism. Also, to keep the lubrication inside from getting out. To be protected they can be:
+		- Shielded
+			- Some resistance to contamination
+		- Sealed
+			- Some are sealed for life
+			- Especially in situations where leakage would contaminate the product
+	- More types of bearings
+		- External self-aligning
+			- The ring beyond the outer ring allows bearings to settle into position even with shaft misalignment
+		- Double Row
+			- Can carry heavier radial and thrust loads
+			- Two single row bearings could be used for the same purpose
+		- Self-Aligning
+			- Unusual ball placement and race shape
+			- Bearing can settle into position even with shaft misalignment
+		- Thrust Bearings
+			- Entire focus is on handling thrust loads (not great for radial loads)
+			- Many designs so mounting is bearing-dependent
+		- Self-Aligning Thrust
+			- As with external self-aligning, thrust bearings can also be self-aligning
+		- Roller Bearings
+			- Roller bearings have rolling elements that create a different type/level of contact between rotatinal components (cylinder instead of sphere)
+			- In contrast to ball bearings: the inner and outer components called a cone and a cup. The seperator is like a cage.
+			- Types of roller bearings
+				- Straight Roller
+					- Greater contact area than ball bearings of same size
+					- Greater radial load capacity
+					- However, requires almost perfect geometry of raceways and roller 
+				- Spherical Roller, Thurst
+				- 
