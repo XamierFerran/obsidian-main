@@ -31,7 +31,6 @@
 ## Job
 - [ ] Update LinkedIn
 - [ ] Startup Github pages portfolio
-- [ ] hi
 ## Guajira
 ## Done
 - [x] spot weld to battery

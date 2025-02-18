@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-Do"
+              "title": "README"
             }
           }
         ]
@@ -179,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "540191d6e9db69e4",
+  "active": "706e0d66cb478423",
   "lastOpenFiles": [
-    "300 Archive/Token.md",
     "To-Do.md",
+    "300 Archive/Token.md",
     "README.md",
     "obsidian-main/To-Do.md",
     "Images/Pasted image 20250213213820.png",

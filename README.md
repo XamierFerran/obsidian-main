@@ -1,1 +1,1 @@
-This repository serves the purpose of versioning and backing up my personal ObsidianMD vault. It will potentially also host a public portfolio one day using Obsidian. But that will be coming sometime in the future. 
+This repository serves the purpose of versioning and backing up my personal ObsidianMD vault. It will potentially also host a public portfolio one day using Obsidian. But that will be coming sometime in the future. If you are currently seeing this, you shouldn't be.
