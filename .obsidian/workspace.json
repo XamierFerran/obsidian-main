@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "706e0d66cb478423",
+  "active": "540191d6e9db69e4",
   "lastOpenFiles": [
-    "README.md",
+    "300 Archive/Token.md",
     "To-Do.md",
+    "README.md",
     "obsidian-main/To-Do.md",
     "Images/Pasted image 20250213213820.png",
     "Images/Pasted image 20250210185131.png",
@@ -218,7 +218,6 @@
     "300 Archive/Tufts/CS144/Experiment Graphs/clusterM5T3.png",
     "300 Archive/Tufts/MUS05 History of Blues/111622.md",
     "300 Archive/Tufts/MUS05 History of Blues/110722.md",
-    "300 Archive/Tufts/MUS05 History of Blues/110222.md",
     "300 Archive/Tufts/ME41/Lecture Notes",
     "300 Archive/Tufts/ME41/110722",
     "300 Archive/Tufts/ME41/103122",
