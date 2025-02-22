@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "100 Areas/CS239/Q Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Q Learning"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,11 +179,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "706e0d66cb478423",
+  "active": "b2ff56ca1022220d",
   "lastOpenFiles": [
     "To-Do.md",
-    "300 Archive/Token.md",
+    "100 Areas/ENP162/Discussion #9/Toward a Theory of Situation Awareness in Dynamic Systems.md",
+    "100 Areas/ENP162/Discussion #9/Situation Awareness.md",
+    "100 Areas/ENP162/Discussion #9",
+    "100 Areas/ENP162/Discussion #8/Untitled",
+    "100 Areas/ENP162/Discussion #8/Trust and Reliance.md",
+    "100 Areas/ENP162/Discussion #8/Trust in Automation - Integrating Empirical Evidence on Factors That Influence Trust.md",
+    "100 Areas/ENP162/Discussion #8/Trust in Automation - Designing for Appropriate Reliance.md",
+    "100 Areas/ENP162/Discussion.md",
+    "200 Resources/Substack Articles That I Would Revisit.md",
     "README.md",
+    "300 Archive/Token.md",
     "obsidian-main/To-Do.md",
     "Images/Pasted image 20250213213820.png",
     "Images/Pasted image 20250210185131.png",
@@ -206,26 +215,17 @@
     "300 Archive/Tufts/ME51/Lecture Notes/Week 5.3 Solutions to Navier Stokes Equations (Poiseuille Couette).md",
     "300 Archive/Tufts/ME51/Lecture Notes/Week 5.2 Momentum Equation.md",
     "300 Archive/Tufts/ME51/Lecture Notes/Couette Flow.md",
-    "300 Archive/Tufts/ME51/In-Class Notes/Laminar flat-plate BLs (Thermal).md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 5.1 Navier-Stokes Equations.md",
-    "300 Archive/Tufts/ME51/In-Class Notes/111722.md",
     "300 Archive/Tufts/CS144/Demo Images/timestep5.png",
     "300 Archive/Tufts/CS144/Demo Images/timestep20.png",
-    "300 Archive/Tufts/ME51/In-Class Notes/110322.md",
-    "300 Archive/Tufts/ME51/In-Class Notes/110122.md",
     "300 Archive/Tufts/CS144/Demo Images/timestep10.png",
     "300 Archive/Tufts/CS144/Demo Images/timestep15.png",
     "300 Archive/Tufts/CS144/Experiment Graphs/clusterM5T3.png",
-    "300 Archive/Tufts/MUS05 History of Blues/111622.md",
-    "300 Archive/Tufts/MUS05 History of Blues/110722.md",
     "300 Archive/Tufts/ME41/Lecture Notes",
     "300 Archive/Tufts/ME41/110722",
     "300 Archive/Tufts/ME41/103122",
     "300 Archive/Tufts/ME41/110222",
     "300 Archive/Tufts/ME51/Lecture Notes",
     "300 Archive/Tufts/ME51/In-Class Notes",
-    "300 Archive/Tufts/CS144/Demo Images",
-    "300 Archive/Tufts/CS144/Experiment Graphs",
-    "300 Archive/Tufts/MUS05 History of Blues"
+    "300 Archive/Tufts/CS144/Demo Images"
   ]
 }
