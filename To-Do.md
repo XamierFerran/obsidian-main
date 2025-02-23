@@ -1,7 +1,5 @@
 ## School
-- [ ] derive mathematical model for accelerometer to get better understanding (refer to notes ME139) and check out videos in lecture slides
-- [ ] ME pset
-- [ ] ==Situation awareness enp discussion==
+- [ ] next enp assignment
 - [ ] ==cs a* assignment==
 - [ ] ==Go to office hours (by appointment email: hang.yu625917@tufts.edu)==
 ## PTC
@@ -11,6 +9,7 @@
 - [ ] Connect to ThingWorx
 - [ ] UR3 Robot Documentation
 - [ ] EDU Robot Documentation
+- [ ] LinkedIn projects
 ## TSVP
 - [ ] design jigsaw teeth for battery box
 - [ ] Figure out pins for dcdc converter and see if onshape has correct connections
@@ -26,6 +25,7 @@
 ## Personal
 - [ ] Dentists - Wednesday???
 - [ ] doctors appt
+- [ ] sign up for next training event thing
 - [ ] Spiff up media playlist
 - [ ] Guitar
 - [ ] Setup date to visit joanet in feb
@@ -38,7 +38,7 @@
 - [ ] Startup Github pages portfolio
 - [ ] LinkedIn projects instead?
 ## Guajira
-
+- [ ] Follow up in Tuesday with Miguel and James about where I should start on work and how might housing and flights work
 ## Done
 - [x] spot weld to battery
 - [x] Bring speaker
@@ -50,3 +50,4 @@
 - [x] Trust and reliance enp discussion
 - [x] Text James Thursday if no response...
 - [x] POTLUCK: fill out form
+- [x] Situation awareness enp discussion
