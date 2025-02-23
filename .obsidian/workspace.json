@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Areas/ENP162/Discussion #2/000 Discussion Post - The Politics of Artifacts.md",
+                "file": "To-Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Discussion Post - The Politics of Artifacts"
+              "title": "To-Do"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "i",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Areas/ENP162/Discussion #2/000 Discussion Post - The Politics of Artifacts.md",
+                "file": "To-Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Discussion Post - The Politics of Artifacts"
+              "title": "Outgoing links from To-Do"
             }
           },
           {
@@ -143,15 +142,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Areas/ENP162/Discussion #2/000 Discussion Post - The Politics of Artifacts.md",
+                "file": "To-Do.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Discussion Post - The Politics of Artifacts"
+              "title": "Outline of To-Do"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b15de54569fa163e",
+        "type": "tabs",
+        "children": [
           {
             "id": "540191d6e9db69e4",
             "type": "leaf",
@@ -162,8 +168,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,43 +185,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "540191d6e9db69e4",
+  "active": "2e33c64379c3a1aa",
   "lastOpenFiles": [
-    "100 Areas/ENP162/Discussion #2/Do Artifacts Have Politics.md",
-    "100 Areas/ENP162/Discussion #2/Assessing risk, automating racism.md",
-    "To-Do.md",
-    "100 Areas/ENP162/Discussion #2/_Task_ Definition.md",
-    "100 Areas/ENP162/Discussion #9/Situation Awareness.md",
-    "100 Areas/ENP162/Discussion #9/Toward a Theory of Situation Awareness in Dynamic Systems.md",
-    "100 Areas/ENP162/Discussion #9/Toward Measurement of Situation Awareness in Autonomous Vehicles.md",
-    "100 Areas/ENP162/Discussion #9/Autonomous Driving Systems - A Preliminary Naturalistic Study of the Tesla Model S.md",
+    "README.md",
+    "300 Archive/Tufts/SMART Goals.md",
+    "300 Archive/Tufts/MUS25 Intro to Music Theory/Scales and Modes.md",
+    "300 Archive/Tufts/MUS05 History of Blues/111622.md",
+    "300 Archive/Tufts/MUS05 History of Blues/110722.md",
+    "300 Archive/Tufts/MUS05 History of Blues/110222.md",
+    "300 Archive/Tufts/MUS05 History of Blues/103122.md",
+    "300 Archive/Tufts/ME51/Thermal Boundary Layer.md",
+    "300 Archive/Tufts/ME51/Physical Mechanism of Convection.md",
+    "300 Archive/Tufts/ME51/Parallel Flow Over Flat Plates.md",
+    "300 Archive/Tufts/ME51/Flow Across Cylinders and Spheres.md",
+    "300 Archive/Tufts/ME51/Lecture Notes/Week 8.4 Intro to Heat Transfer!.md",
+    "300 Archive/Tufts/ME51/Lecture Notes/Week 8.3 Dynamic Similarity.md",
+    "300 Archive/Tufts/ME51/Lecture Notes/Week 8.2 Dynamic Similarity.md",
+    "300 Archive/Tufts/ME51/Lecture Notes/Week 8.1 Dynamic Similarities.md",
+    "300 Archive/Tufts/ME51/Lecture Notes/Week 5.4 Solutions to N-S Equations (Pressure driven flow around tube or pipe).md",
+    "300 Archive/Tufts/ME51/Lecture Notes/Week 5.3 Solutions to Navier Stokes Equations (Poiseuille Couette).md",
+    "300 Archive/Tufts/ME51/Lecture Notes/Week 5.2 Momentum Equation.md",
+    "300 Archive/Tufts/ME51/Lecture Notes/Week 5.1 Navier-Stokes Equations.md",
+    "300 Archive/Tufts/ME51/Lecture Notes/Couette Flow.md",
+    "300 Archive/Tufts/ME51/In-Class Notes/Laminar flat-plate BLs (Thermal).md",
+    "300 Archive/Tufts/ME51/In-Class Notes/111722.md",
+    "300 Archive/Tufts/ME51/In-Class Notes/110322.md",
+    "300 Archive/Tufts/ME51/In-Class Notes/110122.md",
+    "300 Archive/Tufts/ME41/Lecture Notes/Gears.md",
+    "300 Archive/Tufts/ME41/Lecture Notes/Buckling.md",
     "Images/Pasted image 20250222181338.png",
-    "100 Areas/CS239/Q Learning.md",
     "100 Areas/ENP162/Discussion #9",
     "100 Areas/ENP162/Discussion #8/Untitled",
-    "100 Areas/ENP162/Discussion #8/Trust and Reliance.md",
-    "100 Areas/ENP162/Discussion #8/Trust in Automation - Integrating Empirical Evidence on Factors That Influence Trust.md",
-    "100 Areas/ENP162/Discussion #8/Trust in Automation - Designing for Appropriate Reliance.md",
-    "100 Areas/ENP162/Discussion.md",
-    "200 Resources/Substack Articles That I Would Revisit.md",
-    "README.md",
-    "300 Archive/Token.md",
-    "obsidian-main/To-Do.md",
     "Images/Pasted image 20250213213820.png",
     "Images/Pasted image 20250210185131.png",
     "Images/Pasted image 20250204103134.png",
     "Images/Pasted image 20250204102946.png",
     "Images/16f305e1-4211-4393-809a-a7d2f410f992_1024x1024.webp",
     "Images",
-    "300 Archive/Tufts/ME41/Lecture Notes/Gears.md",
-    "300 Archive/Tufts/ME41/Lecture Notes/Buckling.md",
-    "300 Archive/Tufts/ME41/Lecture Notes/Bearings - Theory.md",
-    "300 Archive/Tufts/ME41/Lecture Notes/Bearings - Intro.md",
-    "300 Archive/Tufts/ME41/103122/Flexible Mechanical Elements.md",
-    "300 Archive/Tufts/ME41/110722/Bearings & Buckling Introduction.md",
-    "300 Archive/Tufts/ME41/110222/Bearings Introduction.md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 8.4 Intro to Heat Transfer!.md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 8.3 Dynamic Similarity.md",
     "300 Archive/Tufts/CS144/Demo Images/timestep5.png",
     "300 Archive/Tufts/CS144/Demo Images/timestep20.png",
     "300 Archive/Tufts/CS144/Demo Images/timestep10.png",

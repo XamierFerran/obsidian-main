@@ -1,4 +1,4 @@
-#the-politics-of-artifacts #discussion-post-reading 
+#areas/university/human-machine-system-design/the-politics-of-artifacts #areas/university/human-machine-system-design/discussion-post-reading 
 A health care algorithm reflects underlying racial bias in society
 by Ruha Bejamin
 

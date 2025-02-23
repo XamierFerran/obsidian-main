@@ -2,8 +2,8 @@
 tags:
   - areas/university
   - areas/university/human-machine-system-design
-  - discussion-post-reading
-  - situation-awareness
+  - areas/university/human-machine-system-design/discussion-post-reading
+  - areas/university/human-machine-system-design/situation-awareness
 ---
 ```ad-info
 Written by David Sirkin. Nikolas Martelaro. Mishel Johns. Wendy Ju

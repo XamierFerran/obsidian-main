@@ -1,8 +1,8 @@
 ---
 tags:
   - areas/university/human-machine-system-design
-  - discussion-post-reading
-  - epics-of-automation
+  - areas/university/human-machine-system-design/discussion-post-reading
+  - areas/university/human-machine-system-design/epics-of-automation
 ---
 ## Introduction
 Two ironies:

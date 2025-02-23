@@ -1,4 +1,4 @@
-#discussion-post-reading #deeper-into-shared-control #shared-control 
+#areas/university/human-machine-system-design/discussion-post-reading #areas/university/human-machine-system-design/deeper-into-shared-control #areas/university/human-machine-system-design/shared-control 
 by Frank Flemisch, Matthias Heesen, Tobias Hesse , Johann Kelsch, Anna Schieben, Johannes Beller
 
 ## I. Introduction: The fragile balance between humans and automation

@@ -1,5 +1,5 @@
 *Block 2, p.29-35*
-#notdone 
+#archive 
 **Background**
 The Navier-Stokes equations are really hard to solve. So, we use specific situations that simplify the equations to solve them.
 

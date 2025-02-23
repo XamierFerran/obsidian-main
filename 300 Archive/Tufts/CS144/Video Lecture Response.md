@@ -1,3 +1,4 @@
+#archive 
 ****
 **a short summary of the research such that someone who hasn't seen the talk and does not know anything about the speaker can still get a sense of what the research is about**
 Anastasia Ostrowski presents her paper Equitable Co-Design which highlights the inherently biased implementation of robots by roboticists, and how these humanistic flaws embedded in the robot's design are deployed in places where they would have significant human affect. In contrast, there will also be groups of people that have no contact with robots and will experience a "Robot Divide" where they will not see the benefits of advancements in robotics. Ostrowski poses the question: "How do we support equitable design processes in robotics?" The study proposes that the answer lie within the ecosystem involving the roboticist, stakeholders, and policy makers. By facilitating more interaction between these agents, there will be engagement with historical, cultural, and societal. 

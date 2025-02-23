@@ -1,4 +1,4 @@
-#discussion-post-reading #task-analysis 
+#areas/university/human-machine-system-design/discussion-post-reading #areas/university/human-machine-system-design/task-analysis 
 by Maria Rosala
 https://www.nngroup.com/articles/task-analysis/
 

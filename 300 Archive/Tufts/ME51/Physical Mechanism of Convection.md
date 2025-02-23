@@ -1,3 +1,4 @@
+#archive 
 ### Newton's Law of Cooling
 ![[Pasted image 20221130082534.png]]
 ![[Pasted image 20221130082553.png]]

@@ -1,3 +1,4 @@
+#archive 
 Block 3, pg. 38-43
 
 In the first video for this week (Week 8.1), we talked about how to non-dimensional the Navier-Stokes equation and what it means to have non-dimensionalized equations. 

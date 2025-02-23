@@ -1,8 +1,8 @@
 ---
 tags:
-  - discussion-post
+  - areas/university/human-machine-system-design/discussion-post
   - areas/university/human-machine-system-design
-  - trust-and-reliance
+  - areas/university/human-machine-system-design/trust-and-reliance
   - areas/university
 ---
 ```ad-question

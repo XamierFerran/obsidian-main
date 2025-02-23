@@ -1,8 +1,8 @@
 ---
 tags:
-  - discussion-post
-  - shared-control
-  - deeper-into-shared-control
+  - areas/university/human-machine-system-design/discussion-post
+  - areas/university/human-machine-system-design/shared-control
+  - areas/university/human-machine-system-design/deeper-into-shared-control
 ---
 ## What do you think--should automation be more like a horse, a husband, or something else? how would that vary by context--driving vs. aviation vs. industrial control vs. something else?
 I definitely believe that, like many things, shared control in automation should vary by context. The horse analogy makes a lot of sense since the human and the horse share the same biological drive to stay alive and would generally react similarly in a dangerous situation: get the hell out of there. However, this analogy didn't initially strike me as clever since my understanding of horses (exclusively from media) is that they are easily spooked and go wild even when the "driver" knows there is no danger. This draws direct parallels to how an autonomous system can fail. A false negative is a considerably common failure point in autonomous systems that often draws doubt on the authority that an autonomous vehicle should have. In both the case of the horse and a shared control vehicle, referring to results from previous reading Jones 2016, it would be better if the driver could receive the warning from their respective mode of transportation and easily deicide whether to follow it or go against the suggestion. I think gradually building more trust in autonomous technology throughout society would allow for a husband level of shared control.

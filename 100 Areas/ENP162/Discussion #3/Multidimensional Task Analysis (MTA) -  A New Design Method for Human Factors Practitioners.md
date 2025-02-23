@@ -1,4 +1,4 @@
-#discussion-post-reading #task-analysis 
+#areas/university/human-machine-system-design/discussion-post-reading #areas/university/human-machine-system-design/task-analysis 
 by James Intrilligator
 ## Introduction
 Paper opens with an introduction to the tools at the disposal of a Human Factors Engineer (HFE) such as ahtropometrics, biomechanics, card sorting, task analysis, usability testing. Then task analysis is important because it is usally done before applying other HFE tools. Early forms include physical aspects of tasks, later cognitive task were included. More information can be found in [[Hierarchical Task Analysis]] by James Annett. In this paper, Intrilligator broadens the framework of Task Analysis to Multidimensional Task Analysis (MTA), which can include or subsume all other forms of task analysis. 

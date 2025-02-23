@@ -1,4 +1,4 @@
-#the-politics-of-artifacts #discussion-post-reading
+#areas/university/human-machine-system-design/the-politics-of-artifacts #areas/university/human-machine-system-design/discussion-post-reading
 by Langdon Winner
 
 >Hence, the stern advice commonly given those who flirt with the notion that technical artifacts have political qualities: What matters is not technology itself, but the social or economic system in which it is embedded.

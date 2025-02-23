@@ -1,4 +1,4 @@
-#discussion-post-reading #introduction-to-shared-control #shared-control
+#areas/university/human-machine-system-design/discussion-post-reading #areas/university/human-machine-system-design/introduction-to-shared-control #areas/university/human-machine-system-design/shared-control
 by Mishel Johns
 
 ## Abstract

@@ -1,3 +1,4 @@
+#archive 
 *Block 3, p. 43 - 46*
-#notdone 
+#archive 
 Dynamic Similarity Example including gravity

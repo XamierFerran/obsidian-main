@@ -1,4 +1,4 @@
-#discussion-post #task-analysis 
+#areas/university/human-machine-system-design/discussion-post #areas/university/human-machine-system-design/task-analysis 
 ## Question:
 Write up a short reflection on what you think are the key topics from the readings and what is common between them and where they differ. How would you put task analysis to use in human factors work?
 

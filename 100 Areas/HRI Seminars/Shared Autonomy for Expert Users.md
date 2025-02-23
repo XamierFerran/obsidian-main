@@ -1,4 +1,4 @@
-#hri-seminar
+#areas/university/hri-seminar
 by Reuben Aronson
 
 - Shared Autonomy

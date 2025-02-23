@@ -1,3 +1,4 @@
+#archive 
 Definition - a rotating machine part that is typically used to change the speed, torque, and/or direction of a power source.
 - Most commonly, a gear is meshed (mated) with another gear to produce the desired output. When meshed with a non-rotating rack, translational output is created
 

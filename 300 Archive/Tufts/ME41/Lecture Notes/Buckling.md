@@ -1,3 +1,4 @@
+#archive 
 Compression of a structural member causes small axial deflection until a certain critical load causes significant bending (buckling) a.k.a. elastic instability
 
 ### Euler Equation

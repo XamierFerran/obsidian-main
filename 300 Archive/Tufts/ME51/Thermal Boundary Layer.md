@@ -1,3 +1,4 @@
+#archive 
 A thermal boundary layer develops when a fluid at a specified temperature flows over a surface that is at a different temperature
 EX
 ![[Pasted image 20221130104943.png]]

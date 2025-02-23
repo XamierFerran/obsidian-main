@@ -1,3 +1,4 @@
+#archive 
 **Introduction**
 - Bearings reduce friction between objects, which allows for moving parts to run smoother
 - Typically, they are manufactured to take pure radial loads, pure thrust loads, or a combination of the two

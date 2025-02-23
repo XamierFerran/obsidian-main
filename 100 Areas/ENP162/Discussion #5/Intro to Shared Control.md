@@ -1,4 +1,4 @@
-#introduction-to-shared-control #shared-control #discussion-post 
+#areas/university/human-machine-system-design/introduction-to-shared-control #areas/university/human-machine-system-design/shared-control #areas/university/human-machine-system-design/discussion-post 
 **What do you think of the exploratory design research methodology?**
 The paper introduced an exploratory design methodology that simulates the relationship between the human driver and the automated driving system where the automated system is actually a human with coupled steering wheel. This experimental setup allowed for some variability in interaction between driver-agent interactions and actions from the agent that would affect the driver.
 

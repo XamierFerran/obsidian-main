@@ -1,8 +1,8 @@
 ---
 tags:
-  - discussion-post-reading
-  - shared-control
-  - deeper-into-shared-control
+  - areas/university/human-machine-system-design/discussion-post-reading
+  - areas/university/human-machine-system-design/shared-control
+  - areas/university/human-machine-system-design/deeper-into-shared-control
   - areas/university/human-machine-system-design
 ---
 ## I. Introduction

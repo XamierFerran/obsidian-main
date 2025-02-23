@@ -1,3 +1,4 @@
+#archive 
 Ionian is the C Major scale
 The rest are DPLMA
 ![[Pasted image 20221102093220.png]]

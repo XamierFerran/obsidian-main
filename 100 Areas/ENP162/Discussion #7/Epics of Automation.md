@@ -1,8 +1,8 @@
 ---
 tags:
   - areas/university/human-machine-system-design
-  - discussion-post
-  - epics-of-automation
+  - areas/university/human-machine-system-design/discussion-post
+  - areas/university/human-machine-system-design/epics-of-automation
 ---
 ## Bainbridge's blockbuster _Ironies of Automation_ is the other part of why partially-automated driving won't work: [1] if we can't stay vigilant (see the vigilance literature back to Mackworth's 1948 exploration), [2] can't stay awake (automation trades active fatigue for passive fatigue - see Körber et al. 2015), and then [3] when we do have to do something we're not prepared (this is where Bainbridge's work, as well as Hancock's and Sawyer's and others comes in) ... now what? Is SAE L2/L3 an unsolvable problem? let's discuss...
 Brainbridge's paper provides a thorough and in-depth discussion on all of the ways partial automation, as it is historically (and most likely currently) applied, can subvert our expectations and fail in its attempt to decrease workload. I think the main problem really does lie in how designers choose where the human interacts with the system. By prioritizing all of the cost cutting and replacement of repetitive tasks, there is not enough attention spent on how the operator can meaningfully interact with the system as a genuinely skilled worker that can do things that machines can't do. In many cases, as stated by both readings, operators are tasked with monitoring. I think this is an interesting task because it is definitely enough of an information heavy and repetitive task that this should be automated through sensors, but since the technology isn't there yet to supervise system data it is delegated to the human. It is evident that process prioritizes what the machine can and can't do instead of what the human can and can't do. To that extent, I do not think SAE L2/L3 are unsolvable. 

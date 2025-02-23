@@ -1,1 +1,2 @@
+#archive 
 Honestly, seems like pull up and pull down resistors are made to prevent short circuits that happen because of undefined state of an input or output pin.

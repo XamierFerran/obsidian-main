@@ -1,4 +1,4 @@
-#discussion-post-reading #task-analysis
+#areas/university/human-machine-system-design/discussion-post-reading #areas/university/human-machine-system-design/task-analysis
 by John Annett
 
 Process of **HTA** is to decompose tasks into sub tasks. Sub tasks are defined by a goal, the input conditions needed for the goal, actions required to attain goal, and the feedback indicating goal attainment.
