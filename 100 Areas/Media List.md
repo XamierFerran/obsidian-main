@@ -1,3 +1,8 @@
+---
+tags:
+  - areas/media-list
+---
+
 ## Robot Related
 - Astroboy
 - Cyborg 007
@@ -6,3 +11,4 @@
 - Alita Battle Angel
 sorry to bother you
 everything everywhere all at once
+Dune

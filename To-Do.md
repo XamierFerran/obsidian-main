@@ -24,11 +24,9 @@
 	- [ ] Orange electrical blanket/mat
 ## Personal
 - [ ] Dentists - Wednesday???
-- [ ] doctors appt
+- [ ] close AAA membership
 - [ ] sign up for next training event thing
 - [ ] Spiff up media playlist
-- [ ] Guitar
-- [ ] Setup date to visit joanet in feb
 - [ ] Buy new glasses - https://www.zennioptical.com/anonymousFavorites
 - [ ] Save half of tax return, buy something cool with the rest ($400)
 - [ ] Transfer spotify to apple music
@@ -51,3 +49,4 @@
 - [x] Text James Thursday if no response...
 - [x] POTLUCK: fill out form
 - [x] Situation awareness enp discussion
+- [x] doctors appt

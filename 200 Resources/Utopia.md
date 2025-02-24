@@ -1,0 +1,11 @@
+---
+tags:
+  - resources/common_place/books
+  - resources/philosophy
+author: Thomas More
+year published: "1516"
+---
+## Book One Summary
+I am writing this at 60 pages into the book (about half) and at the start of "Book Two", which is the second half of the book and a few pages into Raphael's description of Utopia. The first half of the book had been a dialogue  between Thomas More and Raphael who is this explorer/philosopher who seems to be wise beyond his years and have solutions to many societal problems. More spends much of the dialogue trying to convince Raphael into public service as he thinks Raphael is too invaluable a mind not to aid the greater society. However, Raphael thinks it is pointless as kings and their aids are much to stuck in their ways to consider his ideas. They'd either think he's crazy and cast him aside or degrade his own ideas and morals. And he keeps referencing a place where it seems they all seem to have it figured out called Utopia. So, Raphael tells them about it.
+## Book Two Summary
+Utopia seems to be an early communist idea. It is not communism in the same way Marx theorized it as this book was written about 300 years before shortly after the beginning of the age of colonization. This communist idea is entirely idealistic. It is what the world could be if we scrapped what we already had. Really, it is a thought experiment. Would this type of communal society that prioritizes intellectual pursuit and un-privatized property even make sense? So far, it does make enough sense. I would also like to bring up an argument in the first book. It seemed that Raphael thought that many of these ideas couldn't be implemented partially. That there would never be progress towards these ideas in that current society. I think it is cool that many of the things that he thought wouldn't fly are currently implemented today. Things include voting, leisure, social welfare. Now, many of these things are constantly being challenged so who really knows where we'll end up. 
