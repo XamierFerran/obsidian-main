@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Areas/Media List.md",
+                "file": "100 Areas/ENP162/Discussion #10/Root Cause Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Media List"
+              "title": "Root Cause Analysis"
             }
           },
           {
-            "id": "cbaa846863718908",
+            "id": "8ad5a6de26c17b14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "To-Do"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#resources/common_place",
+                "query": "tag:areas/university/human-machine-system-design/root-cause",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,6 +101,7 @@
       {
         "id": "abca9c96fb6ef5f6",
         "type": "tabs",
+        "dimension": 25.17301038062284,
         "children": [
           {
             "id": "79932652ca267829",
@@ -172,6 +172,7 @@
       {
         "id": "b15de54569fa163e",
         "type": "tabs",
+        "dimension": 34.515570934256054,
         "children": [
           {
             "id": "540191d6e9db69e4",
@@ -184,6 +185,50 @@
             }
           }
         ]
+      },
+      {
+        "id": "8b6edb8e9255367b",
+        "type": "tabs",
+        "dimension": 40.31141868512111,
+        "children": [
+          {
+            "id": "ce5530bec9275329",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "100 Areas/ENP162/Discussion #10/Root Cause Analysis.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5144486721077948,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Root Cause Analysis"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,20 +238,33 @@
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "b2ff56ca1022220d",
+  "active": "706e0d66cb478423",
   "lastOpenFiles": [
+    "To-Do.md",
+    "100 Areas/ENP162/Discussion #10/Should airplanes be flying themselves.md",
+    "100 Areas/ENP162/Discussion #10/What really brought down the Boeing 737 max.md",
+    "100 Areas/ENP162/Discussion #10/The anti lock braking system anomaly a drinking driver problem.md",
+    "100 Areas/ENP162/Discussion #10/Root Cause Analysis.md",
+    "100 Areas/ENP162/Discussion #2/Discussion Post - The Politics of Artifacts.md",
+    "100 Areas/ENP162/Discussion #2/Do Artifacts Have Politics.md",
+    "100 Areas/ENP162/Discussion.md",
+    "100 Areas/ENP162/Discussion #2/Assessing risk, automating racism.md",
+    "100 Areas/ENP162/Discussion #9/Autonomous Driving Systems - A Preliminary Naturalistic Study of the Tesla Model S.md",
+    "100 Areas/ENP162/Discussion #9/Situation Awareness.md",
+    "100 Areas/ENP162/Discussion #9/Toward Measurement of Situation Awareness in Autonomous Vehicles.md",
+    "100 Areas/ENP162/Discussion #9/Toward a Theory of Situation Awareness in Dynamic Systems.md",
+    "100 Areas/Media List.md",
+    "README.md",
+    "100 Areas/ENP162/Discussion #10",
     "200 Resources/Utopia.md",
     "200 Resources/Dune by Frank Herbert Quotes.md",
-    "100 Areas/Media List.md",
-    "To-Do.md",
-    "README.md",
     "300 Archive/Tufts/SMART Goals.md",
     "300 Archive/Tufts/MUS25 Intro to Music Theory/Scales and Modes.md",
     "300 Archive/Tufts/MUS05 History of Blues/111622.md",
@@ -216,18 +274,6 @@
     "300 Archive/Tufts/ME51/Thermal Boundary Layer.md",
     "300 Archive/Tufts/ME51/Physical Mechanism of Convection.md",
     "300 Archive/Tufts/ME51/Parallel Flow Over Flat Plates.md",
-    "300 Archive/Tufts/ME51/Flow Across Cylinders and Spheres.md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 8.4 Intro to Heat Transfer!.md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 8.3 Dynamic Similarity.md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 8.2 Dynamic Similarity.md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 8.1 Dynamic Similarities.md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 5.4 Solutions to N-S Equations (Pressure driven flow around tube or pipe).md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 5.3 Solutions to Navier Stokes Equations (Poiseuille Couette).md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 5.2 Momentum Equation.md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Week 5.1 Navier-Stokes Equations.md",
-    "300 Archive/Tufts/ME51/Lecture Notes/Couette Flow.md",
-    "300 Archive/Tufts/ME51/In-Class Notes/Laminar flat-plate BLs (Thermal).md",
-    "300 Archive/Tufts/ME51/In-Class Notes/111722.md",
     "Images/Pasted image 20250222181338.png",
     "100 Areas/ENP162/Discussion #9",
     "100 Areas/ENP162/Discussion #8/Untitled",
@@ -246,7 +292,6 @@
     "300 Archive/Tufts/ME41/103122",
     "300 Archive/Tufts/ME41/110222",
     "300 Archive/Tufts/ME51/Lecture Notes",
-    "300 Archive/Tufts/ME51/In-Class Notes",
-    "300 Archive/Tufts/CS144/Demo Images"
+    "300 Archive/Tufts/ME51/In-Class Notes"
   ]
 }

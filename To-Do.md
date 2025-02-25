@@ -1,30 +1,29 @@
 ## School
-- [ ] next enp assignment
+- [ ] ==next enp assignment==
+- [ ] ==mech assignment==
+- [ ] prob assignment
 - [ ] ==cs a* assignment==
-- [ ] ==Go to office hours (by appointment email: hang.yu625917@tufts.edu)==
 ## PTC
-- [ ] Object palletization
-	- [ ] teach it another object
 - [ ] Connect to kepware
 - [ ] Connect to ThingWorx
 - [ ] UR3 Robot Documentation
 - [ ] EDU Robot Documentation
 - [ ] LinkedIn projects
 ## TSVP
-- [ ] design jigsaw teeth for battery box
+- [ ] ==design jigsaw teeth for battery box==
+- [ ] battery box panels for cutouts
+- [ ] pick up standoffs for bms in nolop mcmaster order
 - [ ] Figure out pins for dcdc converter and see if onshape has correct connections
 - [ ] Cutout latest busbars
 - [ ] Test CMU information
-- [ ] Use (Nolop?) IR gun to test battery prototype
 - [ ] battery fuse calculations - maybe Jai?
 - [ ] design attachment for fuse box in hv distrib
-- [ ] Check out Facebook market place for storage solutions
 - [>] Buy List
 	- [ ] Conicle soldering iron tip (x1)
 	- [ ] Orange electrical blanket/mat
 ## Personal
+- [ ] Pay elec gas before march 10th
 - [ ] Dentists - Wednesday???
-- [ ] close AAA membership
 - [ ] sign up for next training event thing
 - [ ] Spiff up media playlist
 - [ ] Buy new glasses - https://www.zennioptical.com/anonymousFavorites
@@ -50,3 +49,7 @@
 - [x] POTLUCK: fill out form
 - [x] Situation awareness enp discussion
 - [x] doctors appt
+- [x] Go to office hours (by appointment email: hang.yu625917@tufts.edu)
+- [x] close AAA membership
+- [x] Object palletization
+- [x] teach it another object
