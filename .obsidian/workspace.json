@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Areas/ENP162/Discussion #10/Root Cause Analysis.md",
+                "file": "100 Areas/ENP162/Discussion #10/The anti lock braking system anomaly a drinking driver problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Root Cause Analysis"
+              "title": "The anti lock braking system anomaly a drinking driver problem"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "To-Do"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "da87827028a345db",
@@ -101,7 +102,7 @@
       {
         "id": "abca9c96fb6ef5f6",
         "type": "tabs",
-        "dimension": 25.17301038062284,
+        "dimension": 49.22145328719723,
         "children": [
           {
             "id": "79932652ca267829",
@@ -172,7 +173,7 @@
       {
         "id": "b15de54569fa163e",
         "type": "tabs",
-        "dimension": 34.515570934256054,
+        "dimension": 23.442906574394463,
         "children": [
           {
             "id": "540191d6e9db69e4",
@@ -189,7 +190,7 @@
       {
         "id": "8b6edb8e9255367b",
         "type": "tabs",
-        "dimension": 40.31141868512111,
+        "dimension": 27.33564013840831,
         "children": [
           {
             "id": "ce5530bec9275329",
@@ -197,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 Areas/ENP162/Discussion #10/Root Cause Analysis.md",
+                "file": "To-Do.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,14 +226,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Root Cause Analysis"
+              "title": "Graph of To-Do"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,15 +243,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsifetch:obsifetch": false
     }
   },
-  "active": "706e0d66cb478423",
+  "active": "8ad5a6de26c17b14",
   "lastOpenFiles": [
-    "To-Do.md",
-    "100 Areas/ENP162/Discussion #10/Should airplanes be flying themselves.md",
     "100 Areas/ENP162/Discussion #10/What really brought down the Boeing 737 max.md",
+    "To-Do.md",
     "100 Areas/ENP162/Discussion #10/The anti lock braking system anomaly a drinking driver problem.md",
+    "100 Areas/ENP162/Discussion #10/Should airplanes be flying themselves.md",
     "100 Areas/ENP162/Discussion #10/Root Cause Analysis.md",
     "100 Areas/ENP162/Discussion #2/Discussion Post - The Politics of Artifacts.md",
     "100 Areas/ENP162/Discussion #2/Do Artifacts Have Politics.md",

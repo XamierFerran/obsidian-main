@@ -22,20 +22,18 @@
 	- [ ] Conicle soldering iron tip (x1)
 	- [ ] Orange electrical blanket/mat
 ## Personal
-- [ ] Pay elec gas before march 10th
+- [ ] consider thinkpad prices for next summer also linux
 - [ ] Dentists - Wednesday???
 - [ ] sign up for next training event thing
 - [ ] Spiff up media playlist
 - [ ] Buy new glasses - https://www.zennioptical.com/anonymousFavorites
 - [ ] Save half of tax return, buy something cool with the rest ($400)
-- [ ] Transfer spotify to apple music
-- [ ] Text Ayah + Helina to hang / work out
+- [x] Text Ayah + Helina to hang / work out
 ## Job
 - [ ] Update LinkedIn
 - [ ] Startup Github pages portfolio
 - [ ] LinkedIn projects instead?
 ## Guajira
-- [ ] Follow up in Tuesday with Miguel and James about where I should start on work and how might housing and flights work
 ## Done
 - [x] spot weld to battery
 - [x] Bring speaker
@@ -52,4 +50,7 @@
 - [x] Go to office hours (by appointment email: hang.yu625917@tufts.edu)
 - [x] close AAA membership
 - [x] Object palletization
+- [x] Follow up in Tuesday with Miguel and James about where I should start on work and how might housing and flights work
+- [x] Pay elec gas before march 10th
+- [x] Transfer spotify to apple music
 - [x] teach it another object
