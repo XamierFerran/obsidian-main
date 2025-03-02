@@ -14,4 +14,6 @@ year published: "2019"
 - According to the article, it was evident that the pilot was scared and stressed and trying to hide it.
 - Another 737 flight crashed and that lead to the entire fleet being grounded.
 - The cause of these crashes was tracked down to being the a sensor failure relating to trim. A new system that Boeing implemented that it thought was so small a change that they didn't need to inform pilots or having a training program.
-- There's blame for Boeing, but it should be considered a technological success that airplanes have become so accessible that there is a huge airline boom and 
+- There's blame for Boeing, but it should be considered a technological success that airplanes have become so accessible that there is a huge airline boom and simply the extra number of planes and regulators per country would bring about these failures
+- Basically, capitalism pushed for deregulation and cost saving that put pressure on all systems associated with this leading to systematic failure that means it is not just Boeing's fault but deregulation and expansion. In short, its also a systemic problem. This was rampant in Indonesia and allowed the owner of LionAir to literally cheap his way out of everything
+- pg.18 - I stopped about here, its mostly just more anecdotes getting into the complexity of these failures and how direct they are but also systematic.
