@@ -1,5 +1,4 @@
 ## School
-- [ ] ==prob assignment==
 - [ ] ==cs a* assignment==
 - [ ] cs ethics ai remarkable submission email prof
 ## PTC
@@ -23,6 +22,7 @@
 	- [ ] Orange electrical blanket/mat
 	- [ ] Deutsch pins
 	- [ ] soldering iron kit (solder sucker, etc.)
+	- [ ] filament
 ## Personal
 - [ ] consider thinkpad prices for next summer also linux
 	- [ ] https://www.lenovo.com/us/en/glossary/how-to-check-pc-specs/?orgRef=https%253A%252F%252Fwww.google.com%252F
@@ -31,6 +31,7 @@
 - [ ] Spiff up media playlist
 - [ ] Buy new glasses - https://www.zennioptical.com/anonymousFavorites
 - [ ] Save half of tax return, buy something cool with the rest ($400)
+- [ ] asli present, linocut smaller tips (maybe a kit?)
 ## Job
 - [ ] Update LinkedIn
 - [ ] Startup Github pages portfolio
@@ -59,4 +60,5 @@
 - [x] pick up standoffs for bms in nolop mcmaster order
 - [x] mech assignment #4
 - [x] next enp assignment
+- [x] prob assignment
 - [x] teach it another object

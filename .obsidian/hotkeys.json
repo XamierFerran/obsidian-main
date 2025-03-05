@@ -7,5 +7,14 @@
       ],
       "key": "X"
     }
+  ],
+  "obsifetch:show": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
   ]
 }
