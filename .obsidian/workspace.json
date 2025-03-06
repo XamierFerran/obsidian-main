@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:areas/university/human-machine-system-design/root-cause",
+                "query": "tag:#projects/work/guajira",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "da87827028a345db",
@@ -246,6 +246,11 @@
   },
   "active": "706e0d66cb478423",
   "lastOpenFiles": [
+    "Runni Guajira.md",
+    "To-Do.md",
+    "Pasted image 20250304223315.png",
+    "Pasted image 20250304223244.png",
+    "Pasted image 20250304223151.png",
     "100 Areas/ENP162/Discussion #2/Discussion Post - The Politics of Artifacts.md",
     "100 Areas/ENP162/Discussion #2/Assessing risk, automating racism.md",
     "100 Areas/ENP162/Discussion #10/Root Cause Analysis.md",
@@ -253,9 +258,7 @@
     "100 Areas/CS239/Red-Teaming for Generative AI - Silver Bullet or Security Theater.md",
     "100 Areas/CS239/Red-Teaming Presentation and Rebuttal.md",
     "README.md",
-    "To-Do.md",
     "100 Areas/CS239/The Reinforcement Learning Problem.md",
-    "Untitled.md",
     "Images/Pasted image 20250302213001.png",
     "Images/Pasted image 20250302212506.png",
     "100 Areas/ENP162/Discussion #10/Should airplanes be flying themselves.md",
@@ -274,7 +277,6 @@
     "100 Areas/ENP162/Discussion #9/Toward a Theory of Situation Awareness in Dynamic Systems.md",
     "100 Areas/Media List.md",
     "100 Areas/ENP162/Discussion #10",
-    "200 Resources/Utopia.md",
     "Images/Pasted image 20250222181338.png",
     "100 Areas/ENP162/Discussion #9",
     "100 Areas/ENP162/Discussion #8/Untitled",
@@ -282,10 +284,7 @@
     "Images/Pasted image 20250210185131.png",
     "Images/Pasted image 20250204103134.png",
     "Images/Pasted image 20250204102946.png",
-    "Images/16f305e1-4211-4393-809a-a7d2f410f992_1024x1024.webp",
     "Images",
-    "300 Archive/Tufts/CS144/Demo Images/timestep5.png",
-    "300 Archive/Tufts/CS144/Demo Images/timestep20.png",
     "300 Archive/Tufts/ME41/Lecture Notes",
     "300 Archive/Tufts/ME41/110722",
     "300 Archive/Tufts/ME41/103122",

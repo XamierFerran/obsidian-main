@@ -1,12 +1,16 @@
 ## School
-- [ ] ==cs a* assignment==
-- [ ] cs ethics ai remarkable submission email prof
+- [ ] schedule out sunday for buying home depot wood (buy a few) and plan out process
+- [ ] study for prob midterm (cheat sheet)
+- [ ] study for gps midterm (cheatsheet)
+- [ ] enp discussion homework
 ## PTC
 - [ ] Connect to kepware
 - [ ] Connect to ThingWorx
 - [ ] ==UR3 Robot Documentation==
 - [ ] ==EDU Robot Documentation==
 - [ ] LinkedIn projects
+## Guajira
+- [ ] ==Runni==
 ## TSVP
 - [ ] ==design jigsaw teeth for battery box==
 - [ ] write up whatsapp post for family on tsvp fundraising
@@ -26,7 +30,7 @@
 ## Personal
 - [ ] consider thinkpad prices for next summer also linux
 	- [ ] https://www.lenovo.com/us/en/glossary/how-to-check-pc-specs/?orgRef=https%253A%252F%252Fwww.google.com%252F
-- [ ] Dentists - Wednesday???
+- [ ] ==Dentists - Wednesday???==
 - [ ] sign up for next training event thing
 - [ ] Spiff up media playlist
 - [ ] Buy new glasses - https://www.zennioptical.com/anonymousFavorites
@@ -36,7 +40,6 @@
 - [ ] Update LinkedIn
 - [ ] Startup Github pages portfolio
 - [ ] LinkedIn projects instead?
-## Guajira
 ## Done
 - [x] spot weld to battery
 - [x] Bring speaker
@@ -61,4 +64,6 @@
 - [x] mech assignment #4
 - [x] next enp assignment
 - [x] prob assignment
+- [x] cs ethics ai remarkable submission email prof
+- [x] cs a* assignment
 - [x] teach it another object
