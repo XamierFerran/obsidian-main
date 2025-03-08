@@ -2,7 +2,10 @@
 - [ ] schedule out sunday for buying home depot wood (buy a few) and plan out process
 - [ ] study for prob midterm (cheat sheet)
 - [ ] study for gps midterm (cheatsheet)
+- [ ] ethics presentation
 - [ ] enp discussion homework
+- [ ] enp group project (evelyn, adrien)
+- [ ] enp group project (sharkima)
 ## PTC
 - [ ] Connect to kepware
 - [ ] Connect to ThingWorx
@@ -10,9 +13,13 @@
 - [ ] ==EDU Robot Documentation==
 - [ ] LinkedIn projects
 ## Guajira
-- [ ] ==Runni==
+- [ ] look up safety regs apply to bike
+- [ ] dcdc converter
+- [ ] upload runni document to drive
 ## TSVP
 - [ ] ==design jigsaw teeth for battery box==
+- [ ] talk to dan about redistributing projects
+- [ ] check alt waterjet
 - [ ] write up whatsapp post for family on tsvp fundraising
 - [ ] add photos to drive
 - [ ] battery box panels for cutouts
@@ -66,4 +73,5 @@
 - [x] prob assignment
 - [x] cs ethics ai remarkable submission email prof
 - [x] cs a* assignment
+- [x] Runni
 - [x] teach it another object
