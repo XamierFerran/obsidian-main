@@ -1,12 +1,8 @@
 ## School
-- [ ] ==enp discussion homework==
-- [ ] ==enp group project (sharkima)==
-- [ ] GPS homework
+- [ ] GPS homework`
 - [ ] schedule out sunday for buying home depot wood (buy a few) and plan out process
-- [ ] study for prob midterm (cheat sheet)
-- [ ] study for gps midterm (cheatsheet)
 - [ ] ethics presentation
-- [ ] enp group project (evelyn, adrien)
+- [ ] email anthony pantojas
 ## PTC
 - [ ] Connect to kepware
 - [ ] Connect to ThingWorx
@@ -14,13 +10,11 @@
 - [ ] LinkedIn projects
 ## Guajira
 - [ ] look up safety regs apply to bike
-- [ ] ==dcdc converter==
-- [x] upload runni document to drive
+- [ ] Bike CAD
 ## TSVP
+- [ ] Update 6s modules for proper cmu hole and tilt placement
 - [ ] ==design jigsaw teeth for battery box==
 - [ ] talk to dan about redistributing projects
-- [ ] cut out material for mech on wednesday with senri
-- [ ] check alt waterjet
 - [ ] write up whatsapp post for family on tsvp fundraising
 - [ ] add photos to drive
 - [ ] battery box panels for cutouts
@@ -38,6 +32,9 @@
 ## Personal
 - [ ] consider thinkpad prices for next summer also linux
 	- [ ] https://www.lenovo.com/us/en/glossary/how-to-check-pc-specs/?orgRef=https%253A%252F%252Fwww.google.com%252F
+- [ ] Tattoo in boston?
+- [ ] dongle/dac
+- [ ] Boston Cap
 - [ ] ==Dentists - Wednesday???==
 - [ ] sign up for next training event thing
 - [ ] Spiff up media playlist
@@ -46,8 +43,11 @@
 - [ ] asli present, linocut smaller tips (maybe a kit?)
 ## Job
 - [ ] Update LinkedIn
+- [ ] Andrew Daetz Mechatronics engineer LinkedIn Apply
 - [ ] Startup Github pages portfolio
 - [ ] LinkedIn projects instead?
+- [ ] Apply to mechatronics engineer positions
+- [ ] [[Job Interests]]
 ## Done
 - [x] spot weld to battery
 - [x] Bring speaker
@@ -76,4 +76,13 @@
 - [x] cs a* assignment
 - [x] Runni
 - [x] UR3 Robot Documentation
+- [x] dcdc converter
+- [x] upload runni document to drive
+- [x] enp discussion homework
+- [x] study for prob midterm (cheat sheet)
+- [x] enp group project (sharkima)
+- [x] check alt waterjet
+- [x] study for gps midterm (cheatsheet)
+- [x] enp group project (evelyn, adrien)
+- [x] cut out material for mech on wednesday with senri
 - [x] teach it another object

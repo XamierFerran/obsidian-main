@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "131379104d90ae4e",
+            "id": "21f6b048222db6fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "000 General Files/Wooden Keyboard Case.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Wooden Keyboard Case"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#projects",
+                "query": "tag:#areas/university/human-machine-system-design/discussion-post",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "000 General Files/Wooden Keyboard Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Wooden Keyboard Case"
             }
           },
           {
@@ -172,6 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "000 General Files/Wooden Keyboard Case.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Wooden Keyboard Case"
             }
           }
         ]
@@ -221,53 +226,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "131379104d90ae4e",
+  "active": "21f6b048222db6fd",
   "lastOpenFiles": [
+    "000 General Files/Wooden Keyboard Case.md",
+    "000 General Files/guide-x-carve.pdf",
+    "To-Do.md",
+    "README.md",
+    "000 General Files/Guajira Articles.md",
+    "000 General Files/Job Interests.md",
+    "000 General Files/Steven's Handbook of Experimental Psychology - Chapter 2 - Signal Detection Theory.md",
+    "000 General Files/Signal Detection and Receiver Operating Characteristics.md",
+    "000 General Files/Statistical Decision Theory - Harvard Lecture Video.md",
+    "000 General Files/GPS Review.md",
+    "Images/Pasted image 20250312111211.png",
+    "Images/Pasted image 20250312110145.png",
+    "Images/Pasted image 20250312104138.png",
+    "Images/Pasted image 20250312103447.png",
+    "Images/Pasted image 20250312100129.png",
+    "Images/Pasted image 20250312093808.png",
+    "Images/Pasted image 20250311222400.png",
+    "Images/Pasted image 20250311222241.png",
+    "Images/Pasted image 20250311213020.png",
+    "000 General Files/Situation Awareness.md",
+    "000 General Files/000 Discussion Post - Task Analysis.md",
+    "000 General Files/Discussion Post - The Politics of Artifacts.md",
+    "000 General Files/Deeper into shared control.md",
+    "000 General Files/Trust and Reliance.md",
+    "000 General Files/Root Cause Analysis.md",
+    "000 General Files/Information Theory.md",
+    "000 General Files/A case for information theory-based modelling of human multitasking performance.md",
+    "000 General Files/Information Theory - The Quantification of Information.md",
+    "000 General Files/Runni Guajira.md",
+    "000 General Files/Information Theory - An Analysis and Design Tool for HCI.md",
+    "Images/Pasted image 20250309174329.png",
+    "000 General Files/Runni Guajira - DCDC Converter.md",
     "files/Guajira Research.md",
     "100 Archive/Laminar flat-plate BLs (Thermal).md",
     "100 Archive/111722.md",
     "100 Archive/110322.md",
-    "100 Archive/110122.md",
-    "100 Archive/Week 8.4 Intro to Heat Transfer!.md",
-    "100 Archive/Week 8.3 Dynamic Similarity.md",
-    "100 Archive/Week 8.2 Dynamic Similarity.md",
-    "100 Archive/Week 8.1 Dynamic Similarities.md",
-    "100 Archive/Week 5.4 Solutions to N-S Equations (Pressure driven flow around tube or pipe).md",
-    "100 Archive/Week 5.3 Solutions to Navier Stokes Equations (Poiseuille Couette).md",
-    "100 Archive/Week 5.2 Momentum Equation.md",
-    "100 Archive/Week 5.1 Navier-Stokes Equations.md",
-    "100 Archive/Couette Flow.md",
-    "100 Archive/SMART Goals.md",
-    "100 Archive/Scales and Modes.md",
-    "100 Archive/111622.md",
-    "100 Archive/110722.md",
-    "100 Archive/110222.md",
-    "100 Archive/103122.md",
-    "100 Archive/Thermal Boundary Layer.md",
-    "100 Archive/Physical Mechanism of Convection.md",
-    "100 Archive/Parallel Flow Over Flat Plates.md",
-    "100 Archive/Flow Across Cylinders and Spheres.md",
-    "100 Archive/Lecture Notes/Week 8.4 Intro to Heat Transfer!.md",
-    "100 Archive/Lecture Notes/Week 8.3 Dynamic Similarity.md",
     "100 Archive/Lecture Notes",
     "100 Archive/In-Class Notes",
-    "Images/WhatsApp Image 2022-11-03 at 14.27.05.jpg",
-    "Images/Pasted image 20221130114133.png",
-    "Images/Pasted image 20221130113704.png",
-    "Images/Pasted image 20221130105946.png",
-    "Images/Pasted image 20221130104943.png",
-    "Images/Pasted image 20221130103617.png",
-    "Images/Pasted image 20221130103126.png",
-    "Images/Pasted image 20221130102524.png",
-    "Images/Pasted image 20221130102347.png",
-    "Images/Pasted image 20221130101908.png",
     "100 Archive/Experiment Graphs",
     "100 Archive/Demo Images",
     "000 General Files",
     "100 Archive/Tufts/ME51/Lecture Notes",
     "100 Archive/Tufts/ME51/In-Class Notes",
     "100 Archive/Tufts/ME41/110722",
-    "100 Archive/Tufts/ME41/Lecture Notes",
-    "100 Archive/Tufts/ME41/103122"
+    "100 Archive/Tufts/ME41/Lecture Notes"
   ]
 }

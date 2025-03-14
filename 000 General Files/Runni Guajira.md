@@ -3,6 +3,7 @@ tags:
   - projects/work/guajira/geofencing
   - projects/work/guajira/gps
   - projects/work/guajira/
+  - resources/electrical_components/relays
 ---
 # Questions
 - Is Runni's implementation for geofencing? GPS turns off power?
