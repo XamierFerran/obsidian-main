@@ -1,40 +1,44 @@
-## School
-- [ ] GPS homework`
-- [ ] schedule out sunday for buying home depot wood (buy a few) and plan out process
-- [ ] ethics presentation
-- [ ] email anthony pantojas
-## PTC
-- [ ] Connect to kepware
+## Spring Break
+- [ ] GPS homework
 - [ ] Connect to ThingWorx
-- [ ] ==EDU Robot Documentation==
-- [ ] LinkedIn projects
-## Guajira
 - [ ] look up safety regs apply to bike
 - [ ] Bike CAD
-## TSVP
 - [ ] Update 6s modules for proper cmu hole and tilt placement
 - [ ] ==design jigsaw teeth for battery box==
-- [ ] talk to dan about redistributing projects
-- [ ] write up whatsapp post for family on tsvp fundraising
-- [ ] add photos to drive
-- [ ] battery box panels for cutouts
-- [ ] Figure out pins for dcdc converter and see if onshape has correct connections
 - [ ] Cutout latest busbars
-- [ ] Test CMU information
-- [ ] battery fuse calculations - maybe Jai?
-- [ ] design attachment for fuse box in hv distrib
+- [ ] battery box panels for cutouts
 - [>] Buy List
 	- [ ] Conicle soldering iron tip (x1)
 	- [ ] Orange electrical blanket/mat
 	- [ ] Deutsch pins
 	- [ ] soldering iron kit (solder sucker, etc.)
 	- [ ] filament
+- [>] Personal Buy List
+	- [ ] Tattoo in boston?
+	- [ ] dongle/dac
+	- [ ] Boston Cap
+## School
+- [ ] schedule out sunday for buying home depot wood (buy a few) and plan out process
+- [ ] ethics presentation
+- [ ] email anthony pantojas
+## PTC
+- [x] Connect to kepware
+- [ ] ==EDU Robot Documentation==
+- [ ] LinkedIn projects
+## Guajira
+
+## TSVP
+- [ ] talk to dan about redistributing projects
+- [ ] write up whatsapp post for family on tsvp fundraising
+- [ ] add photos to drive
+- [ ] Figure out pins for dcdc converter and see if onshape has correct connections
+- [ ] Test CMU information
+- [ ] battery fuse calculations - maybe Jai?
+- [ ] design attachment for fuse box in hv distrib
+
 ## Personal
 - [ ] consider thinkpad prices for next summer also linux
 	- [ ] https://www.lenovo.com/us/en/glossary/how-to-check-pc-specs/?orgRef=https%253A%252F%252Fwww.google.com%252F
-- [ ] Tattoo in boston?
-- [ ] dongle/dac
-- [ ] Boston Cap
 - [ ] ==Dentists - Wednesday???==
 - [ ] sign up for next training event thing
 - [ ] Spiff up media playlist

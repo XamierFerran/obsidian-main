@@ -16,10 +16,27 @@ Yes, supposedly. I ask this question because I anticipate needing to lift up and
 ## How do I do the electronics!?!?
 Honestly, in the video I mentioned above, the creator actually just uses a pre-made pcb board which meant all he had to do was solder and put the key caps in. I'm not sure what he did for software so that is a mystery, but I think i might prefer to buy a pre-made pcb.
 
+I ended up buying one from [Mode Design](https://modedesigns.com/products/envoy-pcb?_pos=1&_psq=65%25+pcb&_ss=e&_v=1.0). I found that this was on the cheaper end of most of the pcb's and it is a 65% keyboard. If I'm being honest I'm not even entirely sure about all of the features of this pcb (how does it power? Can I extend it?), but I will figure it out once I get it in my hands. 
+
+## What kind of wood should I use?
+Home Depot is cheap and accessible, that will almost certainly be where I buy from. Unless I find good scrap in Nolop's scrap bin. I found out there is dimensional lumber in Home Depot's selection, which is preferable since I don't want thin ply wood or like a 2x4 or 1x3. I need thicker wood at least for the case.
+
+## Do I need a keyboard plate?
+Apparently no, but also it heavily dictates how the keyboard would feel. I feel like it would be interesting to see how my keyboard would feel without a plate, and then when I install a plate. Plates are also usually made of metal or tough plastic like polycarbonate. I don't see a reason for it to need to be so intense, so I'd be down to try acrylic. If that doesn't work well for me then I can also try an aluminum sheet from bray. I will say, I'm not sure if I can actually switch out the plate after soldering the key switches on. [source](https://akkogear.eu/blogs/news/keyboard-plates-a-quick-guide)
+
 # Action Items
-- [ ] Buy pre-made pcb
-- [ ] Buy block of wood big enough to fit pre-made pcb
+- [x] Buy pre-made pcb
+- [ ] Buy block of wood big enough to fit pre-made pcb **(Go to home depot in person to see, or nolop scrap bin just to check)**
 - [ ] Buy keyswitches and possibly caps
+	- [ ] could be a good idea to use see through caps for right now and then custom 3d printed caps for space bar, enter, etc.
+
+# Purchases
+
+| Bought/Not? | Item                    | Link                                                                               |
+| ----------- | ----------------------- | ---------------------------------------------------------------------------------- |
+| [x]         | 65% Keyboard PCB        | https://modedesigns.com/products/envoy-pcb?_pos=1&_psq=65%25+pcb&_ss=e&_v=1.0      |
+| [?]         | Dimensional Lumber      | https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc      |
+
 
 # Resources
 - [I Turned This Block of Wood Into a Mechanical Keyboard](https://youtu.be/TShpMoFeHvs?si=G0Y-hR9etNxlM8y3)
