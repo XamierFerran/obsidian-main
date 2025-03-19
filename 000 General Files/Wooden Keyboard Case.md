@@ -12,6 +12,7 @@ Nolop has a **CNC mill (Tormach 440c)**, an **X-Carve**, a **route**r, **dremel*
 Yes, supposedly. I ask this question because I anticipate needing to lift up and drop down the end mill to create the case. This is informed by my training on a manual mill in Bray Lab.
 
 ## How do I use the X-Carve, and how could I use it to create a keyboard case?
+![[guide-x-carve.pdf]]
 
 ## How do I do the electronics!?!?
 Honestly, in the video I mentioned above, the creator actually just uses a pre-made pcb board which meant all he had to do was solder and put the key caps in. I'm not sure what he did for software so that is a mystery, but I think i might prefer to buy a pre-made pcb.
@@ -32,11 +33,10 @@ Apparently no, but also it heavily dictates how the keyboard would feel. I feel 
 
 # Purchases
 
-| Bought/Not? | Item                    | Link                                                                               |
-| ----------- | ----------------------- | ---------------------------------------------------------------------------------- |
-| [x]         | 65% Keyboard PCB        | https://modedesigns.com/products/envoy-pcb?_pos=1&_psq=65%25+pcb&_ss=e&_v=1.0      |
-| [?]         | Dimensional Lumber      | https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc      |
-
+| Bought/Not? | Item               | Link                                                                          |
+| ----------- | ------------------ | ----------------------------------------------------------------------------- |
+| [x]         | 65% Keyboard PCB   | https://modedesigns.com/products/envoy-pcb?_pos=1&_psq=65%25+pcb&_ss=e&_v=1.0 |
+| [?]         | Dimensional Lumber | https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc |
 
 # Resources
 - [I Turned This Block of Wood Into a Mechanical Keyboard](https://youtu.be/TShpMoFeHvs?si=G0Y-hR9etNxlM8y3)
@@ -48,6 +48,3 @@ Apparently no, but also it heavily dictates how the keyboard would feel. I feel 
 - Person made the keyboard out of two pieces of wood. 
 - One thinner for the top of the case that will hide the electronics and be shown off with the keycaps. 
 - The other Is thicker and is cut at a 7 degree angle, for a typing inclination
-
-![[guide-x-carve.pdf]]
-

@@ -6,7 +6,6 @@
 - [ ] Update 6s modules for proper cmu hole and tilt placement
 - [ ] ==design jigsaw teeth for battery box==
 - [ ] Cutout latest busbars
-- [ ] battery box panels for cutouts
 - [>] Buy List
 	- [ ] Conicle soldering iron tip (x1)
 	- [ ] Orange electrical blanket/mat
@@ -26,6 +25,14 @@
 - [ ] ==EDU Robot Documentation==
 - [ ] LinkedIn projects
 ## Guajira
+- Questions for CAD
+	- Dimensions of battery box, as well as a picture next to a ruler taken directly above the battery box
+	- Voladizo file or without?
+	- Dimensions of Fork + Steering
+- Do you have any drawings?
+- Is everything made in house? Like specifically the seats, handle bars, wheels? If not, can you point me towards any drawings, parts links etc.?
+- How do you manufacture the bike if no drawings or cad? Any kind of reference?
+- For future reference for CAD, I will be losing my license to the virtual machine, so is it fine if I use only Onshape? Otherwise I would need a license.
 
 ## TSVP
 - [ ] talk to dan about redistributing projects
@@ -37,6 +44,7 @@
 - [ ] design attachment for fuse box in hv distrib
 
 ## Personal
+- [ ] reach out to Brian
 - [ ] consider thinkpad prices for next summer also linux
 	- [ ] https://www.lenovo.com/us/en/glossary/how-to-check-pc-specs/?orgRef=https%253A%252F%252Fwww.google.com%252F
 - [ ] ==Dentists - Wednesday???==
@@ -89,4 +97,5 @@
 - [x] study for gps midterm (cheatsheet)
 - [x] enp group project (evelyn, adrien)
 - [x] cut out material for mech on wednesday with senri
+- [x] battery box panels for cutouts
 - [x] teach it another object
