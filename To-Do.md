@@ -1,10 +1,7 @@
 ## Spring Break
 - [ ] GPS homework
-- [ ] Connect to ThingWorx
 - [ ] look up safety regs apply to bike
-- [ ] Bike CAD
 - [ ] Update 6s modules for proper cmu hole and tilt placement
-- [ ] ==design jigsaw teeth for battery box==
 - [ ] Cutout latest busbars
 - [>] Buy List
 	- [ ] Conicle soldering iron tip (x1)
@@ -21,8 +18,8 @@
 - [ ] ethics presentation
 - [ ] email anthony pantojas
 ## PTC
-- [x] Connect to kepware
 - [ ] ==EDU Robot Documentation==
+- [ ] Connect to ThingWorx
 - [ ] LinkedIn projects
 ## Guajira
 - Questions for CAD
@@ -98,4 +95,6 @@
 - [x] enp group project (evelyn, adrien)
 - [x] cut out material for mech on wednesday with senri
 - [x] battery box panels for cutouts
+- [x] Connect to kepware
+- [x] Bike CAD
 - [x] teach it another object

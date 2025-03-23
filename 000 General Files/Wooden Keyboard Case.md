@@ -25,6 +25,8 @@ Home Depot is cheap and accessible, that will almost certainly be where I buy fr
 ## Do I need a keyboard plate?
 Apparently no, but also it heavily dictates how the keyboard would feel. I feel like it would be interesting to see how my keyboard would feel without a plate, and then when I install a plate. Plates are also usually made of metal or tough plastic like polycarbonate. I don't see a reason for it to need to be so intense, so I'd be down to try acrylic. If that doesn't work well for me then I can also try an aluminum sheet from bray. I will say, I'm not sure if I can actually switch out the plate after soldering the key switches on. [source](https://akkogear.eu/blogs/news/keyboard-plates-a-quick-guide)
 
+So, I found a [github](https://github.com/eightbitraptor/65_keyboard_untitled) repo that has files and a tutorial for keyboard pcb stuff, but more importantly what I need and the repo has is a dxf file of a 65% keyboard that somewhat fits my pcb. So, I'll try machining that out using the water jet to see if it'll fit.
+
 # Action Items
 - [x] Buy pre-made pcb
 - [ ] Buy block of wood big enough to fit pre-made pcb **(Go to home depot in person to see, or nolop scrap bin just to check)**
