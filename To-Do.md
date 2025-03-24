@@ -45,11 +45,11 @@
 - [ ] consider thinkpad prices for next summer also linux
 	- [ ] https://www.lenovo.com/us/en/glossary/how-to-check-pc-specs/?orgRef=https%253A%252F%252Fwww.google.com%252F
 - [ ] ==Dentists - Wednesday???==
-- [ ] sign up for next training event thing
 - [ ] Spiff up media playlist
 - [ ] Buy new glasses - https://www.zennioptical.com/anonymousFavorites
 - [ ] Save half of tax return, buy something cool with the rest ($400)
 - [ ] asli present, linocut smaller tips (maybe a kit?)
+- [ ] Figure out trip for before graduation, or, maybe just stick around working on personal projects and solar?
 ## Job
 - [ ] Update LinkedIn
 - [ ] Andrew Daetz Mechatronics engineer LinkedIn Apply

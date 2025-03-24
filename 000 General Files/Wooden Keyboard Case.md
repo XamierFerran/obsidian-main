@@ -27,6 +27,8 @@ Apparently no, but also it heavily dictates how the keyboard would feel. I feel 
 
 So, I found a [github](https://github.com/eightbitraptor/65_keyboard_untitled) repo that has files and a tutorial for keyboard pcb stuff, but more importantly what I need and the repo has is a dxf file of a 65% keyboard that somewhat fits my pcb. So, I'll try machining that out using the water jet to see if it'll fit.
 
+The tutorial listed above credited [this video](https://www.youtube.com/watch?v=4P0zfLLblOw&ab_channel=Quantrik) for help. Its pretty useful as it explains how to use the Keyboard Layout Editor
+
 # Action Items
 - [x] Buy pre-made pcb
 - [ ] Buy block of wood big enough to fit pre-made pcb **(Go to home depot in person to see, or nolop scrap bin just to check)**
