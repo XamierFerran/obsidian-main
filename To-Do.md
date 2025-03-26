@@ -1,5 +1,4 @@
 ## Spring Break
-- [ ] GPS homework
 - [ ] look up safety regs apply to bike
 - [ ] Update 6s modules for proper cmu hole and tilt placement
 - [ ] Cutout latest busbars
@@ -14,42 +13,27 @@
 	- [ ] dongle/dac
 	- [ ] Boston Cap
 ## School
-- [ ] schedule out sunday for buying home depot wood (buy a few) and plan out process
-- [ ] ethics presentation
-- [ ] email anthony pantojas
+- [ ] ==ethics presentation==
+- [ ] door dash order for anthony pantojas
+- [ ] probability homework
+- [ ] human machine design mental model discussion
 ## PTC
-- [ ] ==EDU Robot Documentation==
 - [ ] Connect to ThingWorx
 - [ ] LinkedIn projects
 ## Guajira
-- Questions for CAD
-	- Dimensions of battery box, as well as a picture next to a ruler taken directly above the battery box
-	- Voladizo file or without?
-	- Dimensions of Fork + Steering
-- Do you have any drawings?
-- Is everything made in house? Like specifically the seats, handle bars, wheels? If not, can you point me towards any drawings, parts links etc.?
-- How do you manufacture the bike if no drawings or cad? Any kind of reference?
-- For future reference for CAD, I will be losing my license to the virtual machine, so is it fine if I use only Onshape? Otherwise I would need a license.
 
 ## TSVP
 - [ ] talk to dan about redistributing projects
-- [ ] write up whatsapp post for family on tsvp fundraising
 - [ ] add photos to drive
 - [ ] Figure out pins for dcdc converter and see if onshape has correct connections
-- [ ] Test CMU information
-- [ ] battery fuse calculations - maybe Jai?
 - [ ] design attachment for fuse box in hv distrib
 
 ## Personal
 - [ ] reach out to Brian
-- [ ] consider thinkpad prices for next summer also linux
-	- [ ] https://www.lenovo.com/us/en/glossary/how-to-check-pc-specs/?orgRef=https%253A%252F%252Fwww.google.com%252F
 - [ ] ==Dentists - Wednesday???==
 - [ ] Spiff up media playlist
 - [ ] Buy new glasses - https://www.zennioptical.com/anonymousFavorites
-- [ ] Save half of tax return, buy something cool with the rest ($400)
 - [ ] asli present, linocut smaller tips (maybe a kit?)
-- [ ] Figure out trip for before graduation, or, maybe just stick around working on personal projects and solar?
 ## Job
 - [ ] Update LinkedIn
 - [ ] Andrew Daetz Mechatronics engineer LinkedIn Apply
@@ -97,4 +81,10 @@
 - [x] battery box panels for cutouts
 - [x] Connect to kepware
 - [x] Bike CAD
+- [x] email anthony pantojas
+- [x] schedule out sunday for buying home depot wood (buy a few) and plan out process
+- [x] Figure out trip for before graduation, or, maybe just stick around working on personal projects and solar?
+- [x] GPS homework
+- [x] EDU Robot Documentation
+- [x] gps homework
 - [x] teach it another object
