@@ -88,3 +88,7 @@ Beyond evaluating this baseline hypothesis, the main aim of our experiments is t
 3. Replication
 4. New hypothesis: Penalty of dismissal hypothesis
 	1. People will blame those deciders who dismiss the advice they received (whether action or inaction) more than deciders who follow it.
+
+```ad-note
+Finished in Google Doc, "CS239 Presentation"
+```

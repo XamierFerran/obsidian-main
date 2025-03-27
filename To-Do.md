@@ -3,19 +3,17 @@
 - [ ] Update 6s modules for proper cmu hole and tilt placement
 - [ ] Cutout latest busbars
 - [>] Buy List
-	- [ ] Conicle soldering iron tip (x1)
 	- [ ] Orange electrical blanket/mat
-	- [ ] Deutsch pins
-	- [ ] soldering iron kit (solder sucker, etc.)
-	- [ ] filament
+	- [x] Deutsch pins
+	- [x] soldering iron kit (solder sucker, etc.)
+	- [x] filament
+	- [x] electrical tape
+	- [x] 10awg wire, 10awg Anderson connector metal thing
 - [>] Personal Buy List
 	- [ ] Tattoo in boston?
 	- [ ] dongle/dac
 	- [ ] Boston Cap
 ## School
-- [ ] ==ethics presentation==
-- [ ] door dash order for anthony pantojas
-- [ ] probability homework
 - [ ] human machine design mental model discussion
 ## PTC
 - [ ] Connect to ThingWorx
@@ -87,4 +85,7 @@
 - [x] GPS homework
 - [x] EDU Robot Documentation
 - [x] gps homework
+- [x] ethics presentation
+- [x] door dash order for anthony pantojas
+- [x] probability homework
 - [x] teach it another object
