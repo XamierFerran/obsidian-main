@@ -2,13 +2,6 @@
 - [ ] look up safety regs apply to bike
 - [ ] Update 6s modules for proper cmu hole and tilt placement
 - [ ] Cutout latest busbars
-- [>] Buy List
-	- [ ] Orange electrical blanket/mat
-	- [x] Deutsch pins
-	- [x] soldering iron kit (solder sucker, etc.)
-	- [x] filament
-	- [x] electrical tape
-	- [x] 10awg wire, 10awg Anderson connector metal thing
 - [>] Personal Buy List
 	- [ ] Tattoo in boston?
 	- [ ] dongle/dac
@@ -16,18 +9,18 @@
 ## School
 - [ ] human machine design mental model discussion
 ## PTC
-- [ ] Connect to ThingWorx
+- [ ] setup kepware data from robot to thingworx + documentation
 - [ ] LinkedIn projects
 ## Guajira
 
 ## TSVP
-- [ ] talk to dan about redistributing projects
-- [ ] add photos to drive
 - [ ] Figure out pins for dcdc converter and see if onshape has correct connections
 - [ ] design attachment for fuse box in hv distrib
+- [ ] ==Harvard makerspace water jet==
 
 ## Personal
 - [ ] reach out to Brian
+- [ ] ==Clean bathroom==
 - [ ] ==Dentists - Wednesday???==
 - [ ] Spiff up media playlist
 - [ ] Buy new glasses - https://www.zennioptical.com/anonymousFavorites
@@ -89,3 +82,12 @@
 - [x] door dash order for anthony pantojas
 - [x] probability homework
 - [x] teach it another object
+- [>] Buy List
+	- [x] Deutsch pins
+	- [x] soldering iron kit (solder sucker, etc.)
+	- [x] filament
+	- [x] electrical tape
+	- [x] 10awg wire, 10awg Anderson connector metal thing
+- [x] Connect to ThingWorx
+- [x] talk to dan about redistributing projects
+- [x] add photos to drive
