@@ -1,0 +1,10 @@
+---
+tags:
+  - areas/university/human-machine-system-design
+  - areas/university/mental-models
+  - areas/university/human-computer-interaction
+  - areas/university/human-machine-system-design/discussion-post
+---
+I don't see how mental models could be dead, it feels like a fundamental way for people to understand the world. In Stagger and Norcio's paper, they talk about how the term mental models received so much use that the definition was lost, but I think, even with a more refined definition, the term mental model is just so applicable it works in many contexts. I appreciate the explanation of mental model they quoted from Craik (1983) where a mental model is a way for people to use internal models to understand external events. The immediate mental model I have in my head is when someone utilizes analogies to explain an unfamiliar concept: "___ is like ___ if ___ were on steroids" is a classic example. 
+
+That being said I do think Norman's definition of conceptual models is useful for avoiding vagueness. In the paper, Norman argues, with support from the other papers, that a mental model is defined by the user's interpretation of the target system. Given this definition, mental models are in fact very much not dead. UI/UX research and development is an extremely prevalent field that touches every bit of our lives. The symbols on any smart phone application specifically conforms to the common mental model that most users have to avoid any confusion or friction in usage, and that mental model is informed and constantly changing due to the history of technology and symbols. One example is using the floppy disk for the symbol of a saving icon. It pulls on the user's idea of saving information on a floppy disk and relates it to saving information online. This has worked so well, that even though floppy disks have been phased out of use, most people relate the image to the action of saving information. In fact--I've literally never seen a floppy disk in real life :|, and I only know of it because of the save button. 

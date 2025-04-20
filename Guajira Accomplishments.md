@@ -1,6 +1,7 @@
 ---
 tags:
   - projects/work/guajira
+  - areas/career
 ---
 Things I did at Guajira E-Bikes for resume/portfolio
 

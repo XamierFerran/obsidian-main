@@ -1,30 +1,29 @@
-## Spring Break
-- [ ] look up safety regs apply to bike
-- [ ] Update 6s modules for proper cmu hole and tilt placement
-- [ ] Cutout latest busbars
+## School
+- [ ] Human Machine Discussion Topic - Friday
+- [ ] check what homework needs to be done for the rest of the semester...schedule out days to work on it, get it out of the way early, 
+- [ ] ==Graduation Logistics - friday==
+- [ ] ENP presentation add workload lense
+- [ ] Study for probability (use slides, problems from textbook, 4hr intervals)
+- [ ] Probability homework
+## PTC
+- [ ] setup kepware data from robot to thingworx + documentation -thursday
+- [ ] LinkedIn projects
+## Guajira
+- [ ] Finish up original drawing/cad
+## TSVP
+- [ ] Update 6s modules for tilt placement
+- [ ] logic out the next battery module (early AM before dunkins)
+- [ ] Cut out copper bus bars sunday
+- [ ] Cleanup last sheets if bus bar materials
+- [ ] create next busbar dxf
+
+## Personal
+- [ ] Buy new glasses - https://www.zennioptical.com/anonymousFavorites
+- [ ] asli present, linocut smaller tips (maybe a kit?)
 - [>] Personal Buy List
 	- [ ] Tattoo in boston?
 	- [ ] dongle/dac
 	- [ ] Boston Cap
-## School
-- [ ] human machine design mental model discussion
-## PTC
-- [ ] setup kepware data from robot to thingworx + documentation
-- [ ] LinkedIn projects
-## Guajira
-
-## TSVP
-- [ ] Figure out pins for dcdc converter and see if onshape has correct connections
-- [ ] design attachment for fuse box in hv distrib
-- [ ] ==Harvard makerspace water jet==
-
-## Personal
-- [ ] reach out to Brian
-- [ ] ==Clean bathroom==
-- [ ] ==Dentists - Wednesday???==
-- [ ] Spiff up media playlist
-- [ ] Buy new glasses - https://www.zennioptical.com/anonymousFavorites
-- [ ] asli present, linocut smaller tips (maybe a kit?)
 ## Job
 - [ ] Update LinkedIn
 - [ ] Andrew Daetz Mechatronics engineer LinkedIn Apply
@@ -91,3 +90,22 @@
 - [x] Connect to ThingWorx
 - [x] talk to dan about redistributing projects
 - [x] add photos to drive
+- [x] Harvard makerspace water jet
+- [x] human machine design mental model discussion
+- [x] Clean bathroom
+- [x] Cutout latest busbars
+- [x] See if busbars for 6s modules are good with cmu wire hole placement
+- [x] read papers for ai ethics
+- [x] ai ethics paper
+- [x] ethics rebuttal
+- [x] Dentists - Wednesday???
+- [x] Spiff up media playlist
+- [x] human machine design next assignment
+- [x] Watch Miguel's metal working videos
+- [x] Human machine Discussion Topic: Computers are Social Actors and The Media Equation Computers are Social Actors and The Media Equation - Friday
+- [ ] design attachment for fuse box in hv distrib
+- [x] Figure out pins for dcdc converter and see if onshape has correct connections
+- [x] Buy list
+	- [x] Aux battery pack???
+	- [x] Motor sensor connector???
+- [x] GPS HW#6

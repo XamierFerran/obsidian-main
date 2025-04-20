@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "d30bb3c25aeae86e",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "5ad61c27d82e1da4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "21f6b048222db6fd",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guajira Accomplishments.md",
+                "file": "To-Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guajira Accomplishments"
+              "title": "To-Do"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "presentation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-Do.md",
+                "file": "Home Page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To-Do"
+              "title": "Outline of Home Page"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guajira Accomplishments.md",
+                "file": "To-Do.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Guajira Accomplishments"
+              "title": "Graph of To-Do"
             }
           }
         ]
@@ -223,15 +223,24 @@
       "graph:Open graph view": false,
       "obsifetch:obsifetch": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "492223ac08d294f5",
   "lastOpenFiles": [
-    "README.md",
     "To-Do.md",
-    "Untitled.md",
+    "000 General Files/SafeVLA - Towards Safety Alignment of Vision-Language-Action via Safe Reinforcement Learning.md",
+    "CS239 Group Project Ideas.md",
+    "Home Page.md",
+    "000 General Files/Steven's Handbook of Experimental Psychology - Chapter 2 - Signal Detection Theory.md",
+    "000 General Files/Mental Models.md",
+    "000 General Files/Some Observations on Mental Models.md",
+    "000 General Files/Mental Models - Concepts for HCI Research.md",
+    "000 General Files/The Social Construction of a Machine - Ritual, Superstition, Magical Thinking and Other Pragmatic Responses to Running a CT Scanner.md",
     "Guajira Accomplishments.md",
+    "README.md",
     "book list.md",
     "000 General Files/CS239 Presentation.md",
     "Images/Pasted image 20250326051132.png",
@@ -241,7 +250,6 @@
     "000 General Files/guide-x-carve.pdf",
     "000 General Files/Guajira Articles.md",
     "000 General Files/Job Interests.md",
-    "000 General Files/Steven's Handbook of Experimental Psychology - Chapter 2 - Signal Detection Theory.md",
     "000 General Files/Signal Detection and Receiver Operating Characteristics.md",
     "000 General Files/Statistical Decision Theory - Harvard Lecture Video.md",
     "000 General Files/GPS Review.md",
@@ -259,12 +267,6 @@
     "000 General Files/Trust and Reliance.md",
     "000 General Files/Root Cause Analysis.md",
     "000 General Files/Information Theory.md",
-    "000 General Files/A case for information theory-based modelling of human multitasking performance.md",
-    "000 General Files/Information Theory - The Quantification of Information.md",
-    "000 General Files/Runni Guajira.md",
-    "000 General Files/Information Theory - An Analysis and Design Tool for HCI.md",
-    "000 General Files/Runni Guajira - DCDC Converter.md",
-    "files/Guajira Research.md",
     "100 Archive/Lecture Notes",
     "100 Archive/In-Class Notes",
     "100 Archive/Experiment Graphs",
