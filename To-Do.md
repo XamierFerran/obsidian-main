@@ -1,10 +1,6 @@
 ## School
-- [ ] Human Machine Discussion Topic - Friday
-- [ ] check what homework needs to be done for the rest of the semester...schedule out days to work on it, get it out of the way early, 
 - [ ] ==Graduation Logistics - friday==
-- [ ] ENP presentation add workload lense
 - [ ] Study for probability (use slides, problems from textbook, 4hr intervals)
-- [ ] Probability homework
 ## PTC
 - [ ] setup kepware data from robot to thingworx + documentation -thursday
 - [ ] LinkedIn projects
@@ -109,3 +105,7 @@
 	- [x] Aux battery pack???
 	- [x] Motor sensor connector???
 - [x] GPS HW#6
+- [x] Probability homework
+- [x] Human Machine Discussion Topic - Friday
+- [x] check what homework needs to be done for the rest of the semester...schedule out days to work on it, get it out of the way early, 
+- [x] ENP presentation add workload lense

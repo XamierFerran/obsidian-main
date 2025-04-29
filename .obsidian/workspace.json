@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d14af6f413ac686b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3f0731609c4c2128",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To-Do.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To-Do"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Pasted image 20250424105446.png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 365.5
   },
   "right": {
     "id": "da87827028a345db",
@@ -95,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 General Files/Wooden Keyboard Case.md",
+                "file": "Human Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wooden Keyboard Case"
+              "title": "Backlinks for Human Workload"
             }
           },
           {
@@ -114,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Resources/Dune by Frank Herbert Quotes.md",
+                "file": "000 General Files/Bike Chain and Seat Stay Forming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dune by Frank Herbert Quotes"
+              "title": "Outgoing links from Bike Chain and Seat Stay Forming"
             }
           },
           {
@@ -130,8 +126,8 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "work"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -176,7 +172,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "To-Do.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,14 +199,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of To-Do"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 519.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,43 +225,43 @@
   },
   "active": "492223ac08d294f5",
   "lastOpenFiles": [
+    "000 General Files/Pasted image 20250130185732.png",
+    "000 General Files/Pasted image 20250131124812.png",
+    "000 General Files/Pasted image 20250131124927.png",
+    "000 General Files/Pasted image 20250131125026.png",
+    "000 General Files/Pasted image 20250131134324.png",
+    "000 General Files/Pasted image 20250130184206.png",
+    "000 General Files/Pasted image 20250130184211.png",
+    "Images/Pasted image 20221104134754.png",
+    "Images/Pasted image 20221104164524.png",
+    "Images/Pasted image 20221107024055.png",
+    "Images/Pasted image 20221107024325.png",
+    "000 General Files/Bike Chain and Seat Stay Forming.md",
+    "Bike Designing in Onshape.md",
+    "Guajira Accomplishments.md",
+    "Home Page.md",
+    "README.md",
+    "000 General Files/Job Interests.md",
     "To-Do.md",
+    "000 General Files/Advanced Bike Sharing Security with SVM and IoT- Enabled Tracking and Anti-Theft Measures.md",
+    "000 General Files/Cognitive Load Theory.md",
+    "000 General Files/On the Nature of Vigilance.md",
+    "000 General Files/Development of NASA-TLX (Task Load Index) Results of Empirical and Theoretical Research.md",
+    "000 General Files/Human Workload.md",
     "000 General Files/SafeVLA - Towards Safety Alignment of Vision-Language-Action via Safe Reinforcement Learning.md",
     "CS239 Group Project Ideas.md",
-    "Home Page.md",
     "000 General Files/Steven's Handbook of Experimental Psychology - Chapter 2 - Signal Detection Theory.md",
     "000 General Files/Mental Models.md",
     "000 General Files/Some Observations on Mental Models.md",
     "000 General Files/Mental Models - Concepts for HCI Research.md",
     "000 General Files/The Social Construction of a Machine - Ritual, Superstition, Magical Thinking and Other Pragmatic Responses to Running a CT Scanner.md",
-    "Guajira Accomplishments.md",
-    "README.md",
     "book list.md",
     "000 General Files/CS239 Presentation.md",
-    "Images/Pasted image 20250326051132.png",
-    "Images/Pasted image 20250326045724.png",
-    "Images/Pasted image 20250326044920.png",
     "000 General Files/Wooden Keyboard Case.md",
     "000 General Files/guide-x-carve.pdf",
     "000 General Files/Guajira Articles.md",
-    "000 General Files/Job Interests.md",
     "000 General Files/Signal Detection and Receiver Operating Characteristics.md",
     "000 General Files/Statistical Decision Theory - Harvard Lecture Video.md",
-    "000 General Files/GPS Review.md",
-    "Images/Pasted image 20250312111211.png",
-    "Images/Pasted image 20250312110145.png",
-    "Images/Pasted image 20250312104138.png",
-    "Images/Pasted image 20250312103447.png",
-    "Images/Pasted image 20250312100129.png",
-    "Images/Pasted image 20250312093808.png",
-    "Images/Pasted image 20250311222400.png",
-    "000 General Files/Situation Awareness.md",
-    "000 General Files/000 Discussion Post - Task Analysis.md",
-    "000 General Files/Discussion Post - The Politics of Artifacts.md",
-    "000 General Files/Deeper into shared control.md",
-    "000 General Files/Trust and Reliance.md",
-    "000 General Files/Root Cause Analysis.md",
-    "000 General Files/Information Theory.md",
     "100 Archive/Lecture Notes",
     "100 Archive/In-Class Notes",
     "100 Archive/Experiment Graphs",

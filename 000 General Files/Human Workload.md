@@ -1,0 +1,5 @@
+[[Development of NASA-TLX (Task Load Index) Results of Empirical and Theoretical Research]]
+
+The development of NASA-TLX and their approach is interesting because the researchers took the practice of surveying workload and the subjectivi
+
+Human workload is an intriguing subject to me because it depends so heavily on the experience of the specific person. Depending on their different abilities, any person's workload rating of a specific task can vary wildly and makes it hard to reach a meaningful result that is comparable. Hart and Staveland's development of the NASA-TLX is a thorough and well thought out approach to further formalizing workload evaluation. By breaking down workload into different dimensions, it gives more insight to a worker's experience and allows for the weighted comparisons which adds nuance by showing how certain tasks might affect other tasks. In other words, this highlights areas of strain that wouldn't have been identified by simply rating the workload of one task.
